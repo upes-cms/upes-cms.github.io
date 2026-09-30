@@ -11,6 +11,16 @@ current:
       period: July 2026-present
       #email: 
 
+    - name: Paridhi Thakur
+      programme: B.Tech. Computer Science 
+      topic: Building next generation of dataset monitoring tools for CMS PPD, Medical imaging analysis with CMS DQM tools.
+      period: May 2026-present
+
+    - name: Aanchal Saharawat
+      programme: B.Tech. Computer Science 
+      topic: Building next generation of dataset monitoring tools for CMS PPD. 
+      period: May 2026-present
+
 
 previous: []
 # Add a student under current or previous using:
