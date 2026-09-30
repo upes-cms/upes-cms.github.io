@@ -1,0 +1,51 @@
+name: Dr. Suvankar Roy Chowdhury
+slug: suvankar-roy-chowdhury
+initials: SRC
+role: Assistant Professor - Senior Scale
+institution: School of Advanced Engineering, UPES
+email: suvankar.chowdhury@ddn.upes.ac.in
+orcid: https://orcid.org/0000-0001-5742-5593
+inspire: https://inspirehep.net/authors/1250237?ui-citation-summary=true
+scholar: https://scholar.google.com/citations?user=tEqp868AAAAJ
+github: https://github.com/sroychow
+summary: Experimental high-energy physicist and CMS Collaboration member working on Higgs and electroweak physics, real-time data, silicon tracking detectors, and detector performance.
+interests:
+  - Higgs boson properties
+  - Electroweak precision measurements
+  - CMS silicon tracker operations and upgrades
+  - Real-time datasets and data scouting
+education:
+  - degree: Ph.D. in Experimental High Energy Physics
+    institution: Saha Institute of Nuclear Physics, University of Calcutta
+    year: 2019
+    detail: Study of Standard Model Higgs boson properties in the H to ZZ to four-lepton final state using the CMS detector.
+  - degree: M.Sc. in Physics
+    institution: University of Calcutta
+    year: 2007
+  - degree: B.Sc. in Physics
+    institution: St. Xavier's College, University of Calcutta
+    year: 2005
+experience:
+  - position: Assistant Professor - Senior Scale
+    institution: UPES, Dehradun
+    period: 2024-present
+  - position: Postdoctoral Fellow
+    institution: INFN Sezione di Pisa
+    period: 2021-2024
+  - position: Postdoctoral Fellow
+    institution: Scuola Normale Superiore di Pisa
+    period: 2019-2021
+highlights:
+  - Level-2 convener, CMS Real Time Dataset group (2025-2027)
+  - Level-2 convener, CMS Tracker Detector Performance Group (2022-2024)
+  - CMS Achievement Award (2022)
+selected_publications:
+  - title: High-precision measurement of the W boson mass with the CMS experiment at the LHC
+    venue: CMS PAS SMP-23-002 / arXiv:2412.13872
+    url: https://doi.org/10.48550/arXiv.2412.13872
+  - title: Impact of the PDFs on the Z and W lineshapes at LHC
+    venue: European Physical Journal C 80, 328 (2020)
+    url: https://doi.org/10.1140/epjc/s10052-020-7892-z
+  - title: Beam test performance of prototype silicon detectors for the Outer Tracker for the Phase-2 Upgrade of CMS
+    venue: JINST 15, P03014 (2020)
+    url: https://doi.org/10.1088/1748-0221/15/03/P03014

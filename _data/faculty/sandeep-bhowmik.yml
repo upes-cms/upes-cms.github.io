@@ -1,0 +1,50 @@
+name: Dr. Sandeep Bhowmik
+slug: sandeep-bhowmik
+initials: SB
+role: Assistant Professor
+institution: School of Advanced Engineering, UPES
+email: sandeep.bhowmik@cern.ch
+orcid: https://orcid.org/0000-0003-1260-973X
+summary: Experimental high-energy physicist in the CMS Collaboration with expertise in strong-interaction studies, jet physics, detector operations, and physics analysis in proton-proton collisions.
+interests:
+  - Quantum chromodynamics and strong interactions
+  - Jet physics and event shapes
+  - CMS physics analysis
+  - Detector operations and upgrades
+education:
+  - degree: Ph.D. in Experimental High Energy Physics
+    institution: Visva-Bharati University; research at TIFR, Mumbai
+    year: 2016
+    detail: Study on Strong Interaction in pp Collisions with the CMS Detector.
+  - degree: M.Sc. in Physics
+    institution: Indian Institute of Technology Guwahati
+    year: 2009
+  - degree: B.Sc. in Physics (Honours)
+    institution: University of Calcutta
+    year: 2006
+experience:
+  - position: Assistant Professor
+    institution: UPES, Dehradun
+    period: 2024-present
+  - position: Postdoctoral Researcher
+    institution: Instituto de Fisica de Cantabria, Spain
+    period: 2022-2024
+  - position: Researcher / Postdoctoral Fellow
+    institution: National Institute of Chemical Physics and Biophysics, Estonia
+    period: 2017-2022
+  - position: Postdoctoral Research Fellow
+    institution: NISER Bhubaneswar
+    period: 2016-2017
+highlights:
+  - CSIC postdoctoral research grant, Spain (2022-2024)
+  - Mobilitas Plus Postdoctoral Research Grant, Estonia (2019-2021)
+  - Long-standing CMS detector operations and shift contributions
+selected_publications:
+  - title: Search for Higgs boson pairs decaying to WWWW, WWtautau, and tautautautau in proton-proton collisions at 13 TeV
+    venue: JHEP 07 (2023) 095
+  - title: Measurement of the Higgs boson production rate in association with top quarks
+    venue: European Physical Journal C 81 (2021) 378
+  - title: Performance of the CMS Level-1 trigger in proton-proton collisions at 13 TeV
+    venue: JINST 15 (2020) P10017
+  - title: Study of hadronic event-shape variables in multijet final states in pp collisions at 7 TeV
+    venue: JHEP 10 (2014) 087

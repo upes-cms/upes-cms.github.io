@@ -1,0 +1,30 @@
+title: UPES-CMS
+name: UPES-CMS
+description: Experimental High Energy Physics group at UPES working with the CMS experiment at CERN.
+url: ""
+baseurl: ""
+repository: ""
+institution: UPES, Dehradun
+email: suvankar.chowdhury@ddn.upes.ac.in
+accent_color: "#0b5f73"
+dark_mode: true
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+nav_pages:
+  - name: home
+    label: Home
+  - name: research
+    label: Research
+  - name: team
+    label: Team
+  - name: publications
+    label: Publications
+  - name: contact
+    label: Contact
+

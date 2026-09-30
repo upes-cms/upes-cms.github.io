@@ -1,0 +1,48 @@
+name: Dr. Jyoti Babbar
+slug: jyoti-babbar
+initials: JB
+role: Postdoctoral Fellow / Group Member
+institution: University of Trieste and INFN Trieste
+email: jyoti.babbar@cern.ch
+inspire: https://inspirehep.net/authors/1667351
+summary: CMS experimental high-energy physicist working on BSM searches, detector development, machine-learning-based reconstruction, and hadron calorimeter calibration.
+interests:
+  - Beyond Standard Model searches
+  - Standard Model precision studies
+  - Hardware detector development
+  - Machine learning for reconstruction
+  - Detector calibration
+education:
+  - degree: Ph.D. in Experimental High Energy Physics
+    institution: Panjab University, Chandigarh
+    year: 2024
+    detail: Search for resonance in the photon+jet final state at 13 TeV using the CMS detector at the LHC.
+  - degree: M.Sc. in Physics
+    institution: University of Delhi
+    year: 2017
+  - degree: B.Sc. in Physics
+    institution: Ramjas College, University of Delhi
+    year: 2015
+experience:
+  - position: Postdoctoral Researcher
+    institution: University of Trieste and INFN Trieste
+    period: 2024-present
+  - position: Visiting Researcher
+    institution: Fermilab, USA
+    period: 2023-2024
+  - position: Doctoral Researcher
+    institution: Panjab University
+    period: 2018-2024
+highlights:
+  - Graph neural-network and GravNet models for high-energy track clustering
+  - CMS GEM detector assembly and quality-control testing
+  - HCAL calibration using isolated tracks for Run 2 and Run 3
+  - NET-LS (2017), NET-JRF (2018), and CSIR-SRF (2020)
+selected_publications:
+  - title: Search for new physics in CMS in events with photons in the final state
+    venue: Proceedings of Science, ICHEP 2024
+    url: https://doi.org/10.22323/1.476.0247
+  - title: Search for resonances in events with photon and jet final states in proton-proton collisions at 13 TeV
+    venue: JHEP 12 (2023) 189
+  - title: First test results of the HGCAL concentrator ASICs - ECON-T and ECON-D
+    venue: JINST 19 (2024) C03050

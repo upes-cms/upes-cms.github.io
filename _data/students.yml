@@ -1,0 +1,9 @@
+current: []
+previous: []
+# Add a student under current or previous using:
+# - name: Student Name
+#   programme: Ph.D. / M.Sc. / B.Sc.
+#   topic: Research topic
+#   period: 2026-present
+#   email: optional@example.com
+
