@@ -1,4 +1,17 @@
-current: []
+current:
+    - name: Vidhan Chopra
+      programme: B.Sc. Physics(Hons) by research
+      topic: Search for Beyond Standard Model Physics in Z plus Gamma final states
+      period: April 2026-present
+      #email: 
+
+    - name: Prayag S. Krishnan
+      programme: B.Sc. Physics(Hons) by research
+      topic: Calibration of CMS Calorimeter using isolated hadrons
+      period: July 2026-present
+      #email: 
+
+
 previous: []
 # Add a student under current or previous using:
 # - name: Student Name
