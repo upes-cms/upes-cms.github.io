@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0b5f73">
   {% seo %}
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <style>{% include site.css %}</style>
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
@@ -24,7 +24,6 @@
   </header>
   <main id="content">{{ content }}</main>
   <footer><div class="shell"><strong>UPES-CMS</strong><span>Experimental High Energy Physics at UPES</span><span>&copy; {{ 'now' | date: '%Y' }}</span></div></footer>
-  <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+  <script>{% include site.js %}</script>
 </body>
 </html>
-

@@ -1,4 +1,4 @@
-# UPES-CMS website - Version 1.2
+# UPES-CMS website - Version 1.3
 
 Deployable Jekyll site adapted from the structure and conventions of `sbryngelson/academic-website-template`.
 
@@ -27,6 +27,8 @@ Open `http://localhost:4000`.
 See `DEPLOYMENT.md` for detailed deployment checks. On Linux and macOS, use `ls -la` to display the hidden `.github` directory.
 
 This package is configured for the `UPES-CMS/upes-cms.github.io` organization Pages repository and the root URL `https://upes-cms.github.io`. Keep `baseurl` empty.
+
+The deployment workflow deliberately builds without a command-line `--baseurl` override. The core stylesheet is embedded during the Jekyll build so repository renames or stale Pages base-path metadata cannot produce an unstyled page.
 
 ## Notes
 
