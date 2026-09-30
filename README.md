@@ -1,4 +1,4 @@
-# UPES-CMS website - Version 1
+# UPES-CMS website - Version 1.2
 
 Deployable Jekyll site adapted from the structure and conventions of `sbryngelson/academic-website-template`.
 
@@ -19,11 +19,14 @@ Open `http://localhost:4000`.
 
 ## Deploy on GitHub Pages
 
-1. Create a GitHub repository and upload this package.
-2. In Settings > Pages, select **GitHub Actions** as the source.
-3. Push to the `main` or `source` branch. The included workflow builds and deploys automatically.
+1. Create or rename the organization repository to exactly `upes-cms.github.io`, then upload this package.
+2. Confirm that the hidden file `.github/workflows/deploy.yml` is included in the repository.
+3. In Settings > Pages, select **GitHub Actions** as the source.
+4. Push to the `main` or `source` branch. The included workflow builds and deploys automatically.
 
-For a project repository such as `upes-cms`, set `baseurl: "/upes-cms"` in `_config.yml`. For an organization/user Pages repository, leave `baseurl` empty.
+See `DEPLOYMENT.md` for detailed deployment checks. On Linux and macOS, use `ls -la` to display the hidden `.github` directory.
+
+This package is configured for the `UPES-CMS/upes-cms.github.io` organization Pages repository and the root URL `https://upes-cms.github.io`. Keep `baseurl` empty.
 
 ## Notes
 

@@ -1,9 +1,9 @@
 title: UPES-CMS
 name: UPES-CMS
 description: Experimental High Energy Physics group at UPES working with the CMS experiment at CERN.
-url: "https://upes-cms.github.io/"
+url: "https://upes-cms.github.io"
 baseurl: ""
-repository: ""
+repository: "UPES-CMS/upes-cms.github.io"
 institution: UPES, Dehradun
 email: suvankar.chowdhury@ddn.upes.ac.in
 accent_color: "#0b5f73"
@@ -11,7 +11,8 @@ dark_mode: true
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-exclude: [README.md, Gemfile, Gemfile.lock, vendor]
+include: [_pages]
+exclude: [README.md, DEPLOYMENT.md, Gemfile, Gemfile.lock, vendor]
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -27,4 +28,3 @@ nav_pages:
     label: Publications
   - name: contact
     label: Contact
-
