@@ -6,7 +6,7 @@ baseurl: ""
 repository: "UPES-CMS/upes-cms.github.io"
 institution: UPES, Dehradun
 email: suvankar.chowdhury@ddn.upes.ac.in
-accent_color: "#0b5f73"
+accent_color: "#1687d9"
 dark_mode: true
 markdown: kramdown
 highlighter: rouge

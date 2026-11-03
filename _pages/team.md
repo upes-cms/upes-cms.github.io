@@ -5,6 +5,8 @@ subtitle: Faculty and students working across physics analysis, detector systems
 permalink: /team/
 nav: team
 ---
+<figure class="team-photo"><img src="{{ '/assets/images/upes-cms-group-2026.jpg' | relative_url }}" alt="UPES-CMS researchers and students" loading="lazy"><figcaption>Members and mentors of the UPES-CMS group.</figcaption></figure>
+
 <h2>Faculty</h2>
 <div class="team-grid">
 {% for item in site.data.faculty %}{% assign person = item[1] %}

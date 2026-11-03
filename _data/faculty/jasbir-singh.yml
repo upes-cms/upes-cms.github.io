@@ -1,0 +1,23 @@
+name: Dr. Jasbir Singh
+slug: jasbir-singh
+initials: JS
+role: Distinguished Researcher and Group Mentor
+institution: Centre for Interdisciplinary Research, UPES
+email: jasbir.singh@upes.ac.in
+profile: https://www.upes.ac.in/research/faculty-researcher/dr-jb-singh
+summary: Distinguished professor and experimental high-energy particle physicist whose work spans the discovery of fundamental particles and the interdisciplinary application of high-energy physics to medical imaging, radiation therapy, and data processing.
+interests:
+  - Experimental high-energy particle physics
+  - Fundamental building blocks of matter
+  - Large-scale particle-physics experiments
+  - Medical imaging and radiation therapy
+  - Data processing technologies
+education: []
+experience:
+  - position: Distinguished Professor and Group Mentor
+    institution: Centre for Interdisciplinary Research, UPES
+    period: Current
+highlights:
+  - Member of the team that discovered the top quark at Fermilab in 1995
+  - Contributor to the identification of the Higgs boson at CERN in 2012
+  - Research leadership connecting high-energy physics with interdisciplinary technologies
